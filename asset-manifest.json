@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd054b40.chunk.css",
-    "main.js": "/static/js/main.b26eca84.chunk.js",
-    "main.js.map": "/static/js/main.b26eca84.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.4ee331c5.chunk.css": "/static/css/2.4ee331c5.chunk.css",
-    "static/js/2.77ce8605.chunk.js": "/static/js/2.77ce8605.chunk.js",
-    "static/js/2.77ce8605.chunk.js.map": "/static/js/2.77ce8605.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.535e6afa7e8f29df6753729fc56df07c.js": "/precache-manifest.535e6afa7e8f29df6753729fc56df07c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4ee331c5.chunk.css.map": "/static/css/2.4ee331c5.chunk.css.map",
-    "static/css/main.fd054b40.chunk.css.map": "/static/css/main.fd054b40.chunk.css.map",
-    "static/media/App.css": "/static/media/bg.b6796c73.jpg",
-    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/weather-app/static/css/main.8578a671.chunk.css",
+    "main.js": "/weather-app/static/js/main.af355e3d.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.af355e3d.chunk.js.map",
+    "runtime~main.js": "/weather-app/static/js/runtime~main.4606d7f5.js",
+    "runtime~main.js.map": "/weather-app/static/js/runtime~main.4606d7f5.js.map",
+    "static/css/2.9111e35e.chunk.css": "/weather-app/static/css/2.9111e35e.chunk.css",
+    "static/js/2.77ce8605.chunk.js": "/weather-app/static/js/2.77ce8605.chunk.js",
+    "static/js/2.77ce8605.chunk.js.map": "/weather-app/static/js/2.77ce8605.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.5efcf017e3dea9ec855b2d178517db59.js": "/weather-app/precache-manifest.5efcf017e3dea9ec855b2d178517db59.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/2.9111e35e.chunk.css.map": "/weather-app/static/css/2.9111e35e.chunk.css.map",
+    "static/css/main.8578a671.chunk.css.map": "/weather-app/static/css/main.8578a671.chunk.css.map",
+    "static/media/App.css": "/weather-app/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
   }
 }
